@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Cristhian</h2>
 
-<!--
-**Kal2403/Kal2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻•💻 About Me </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍️ &nbsp; currently studying in microverse.
+
+- 🌱 &nbsp; Learning about Debugging.
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+
+- 🔧 &nbsp; Git | Github | Mobile/Responsive Development | RSpec | TDD | Chrome Dev Tools
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Python | Sql | PHP
+
+<hr>
+
+<br/><br/>
+
+[![Matchoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kal2403&show_icons=truetheme=radical)](https://github.com/Kal2403)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal2403&show_icons=true)
+
+<br><br>
+
+<hr>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/cristhian-castillo-41136322a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristhian-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://twitter.com/Kal24031992"><img alt="twitter" src="https://img.shields.io/badge/twitter-Cristhian-blue?style=flat-square&logo=twitter"></a>
+
+<a href="cristhian:kal2403199255@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kal2403199255@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+<hr>
