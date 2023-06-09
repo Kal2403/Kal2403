@@ -3,7 +3,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- ✍️ &nbsp; currently studying in microverse.
+- ✍️ &nbsp; currently studying.
 
 - 🌱 &nbsp; Learning about Debugging.
 
