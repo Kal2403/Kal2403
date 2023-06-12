@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React
 
 - 🔧 &nbsp; Git | Github | Mobile/Responsive Development | RSpec | TDD | Chrome Dev Tools
 
