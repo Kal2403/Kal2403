@@ -78,13 +78,13 @@ Tienda online de productos tecnológicos desarrollada con arquitectura MERN.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kal2403&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kal2403&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Tienda online de productos tecnológicos desarrollada con arquitectura MERN.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Kal2403&theme=github-dark" />
 
 </p>
 
